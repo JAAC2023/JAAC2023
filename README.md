@@ -24,7 +24,7 @@ No solo disfruto de la programacion por la cantidad de demanda que hay en el mer
 
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son: 
 
-**Javascript**
+* **Javascript**
 
 **React.js**
 
