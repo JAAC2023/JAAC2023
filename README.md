@@ -26,19 +26,19 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 * **Javascript**
 
-**React.js**
+* **React.js**
 
-**Node.js** 
+* **Node.js** 
 
-**Express.js** 
+* **Express.js** 
 
-**PostgreSQL** 
+* **PostgreSQL** 
 
-**Sequelize** 
+* **Sequelize** 
 
-**GIT** 
+* **GIT** 
 
-**Claramente incluyendo HTML y CSS** 
+* **Claramente incluyendo HTML y CSS** 
 
  
 
