@@ -1,5 +1,5 @@
-_Hola! Mi nombre es Jose Abel Aguilar Cepeda_
-También conocido como JAAC2023 en GitHub (De ahí las iniciales) 
+# Hola! Mi nombre es Jose Abel Aguilar Cepeda
+## También conocido como JAAC2023 en GitHub (De ahí las iniciales) 
 
 📑¿Quién soy?📑
 
