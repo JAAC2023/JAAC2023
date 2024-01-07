@@ -38,7 +38,7 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 * **GIT** 
 
-* **Claramente incluyendo HTML y CSS** 
+Claramente incluyendo **HTML y CSS**
 
  
 
