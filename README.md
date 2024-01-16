@@ -42,7 +42,7 @@ Claramente incluyendo **HTML y CSS**
 
  
 
-## No dudes en contactarme! 👉 📞 📧
+## Puedes contactarme en: 👉 📞 📧
 
 LinkedIn : **www.linkedin.com/in/jose-abel-aguilar-cepeda-8a3924284**
 
