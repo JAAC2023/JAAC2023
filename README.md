@@ -3,7 +3,7 @@ También conocido como **JAAC2023** en GitHub >(De ahí las iniciales)
 
 # **📑¿Quién soy?📑**
 
-Soy un **Programador** *Fullstack* orientado al diseño *Front-end* y creación de material visual. 
+Soy un **Programador** *Fullstack* orientado al diseño *Front-end*. 
 Siempre he tenido una tendencia hacia la tecnología. Hace unos años lleve a cabo un estudio tecnológico en **diseño y programación de automatismos mecatrónicos** y ahora **desarrollo web** con Henry 
 
   
